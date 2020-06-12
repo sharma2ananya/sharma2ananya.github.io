@@ -1,5 +1,4 @@
 name: Ananya sharma, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
 remote_theme: piharpi/jekyll-klise
